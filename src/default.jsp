@@ -9,7 +9,7 @@
     <link href="css/bootstrap.css" rel="stylesheet" />
     <link href="css/snakes.css" rel="stylesheet" />
 
-    <title>Does we have hhhhhhave snakes?</title>
+    <title>Does we have hhhhhhave snakes or owl?</title>
   </head>
 
   <script>
@@ -81,6 +81,7 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
 
 
